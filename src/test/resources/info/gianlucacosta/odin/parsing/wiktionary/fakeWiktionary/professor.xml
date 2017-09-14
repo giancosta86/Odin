@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--^
+  ===========================================================================
+  Odin
+  ===========================================================================
+  Copyright (C) 2017 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<page>
+    <text>
+        == Professor ({{Sprache|Deutsch}}) ==
+        === {{Wortart|Substantiv|Deutsch}}, {{m}} ===
+
+        {{Deutsch Substantiv Übersicht
+        |Genus=m
+        |Nominativ Singular=Professor
+        |Nominativ Plural=Professoren
+        |Genitiv Singular=Professors
+        |Genitiv Plural=Professoren
+        |Dativ Singular=Professor
+        |Dativ Plural=Professoren
+        |Akkusativ Singular=Professor
+        |Akkusativ Plural=Professoren
+        }}
+
+        {{Worttrennung}}
+        :Pro·fes·sor, {{Pl.}} Pro·fes·so·ren
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|pʀoˈfɛsoːɐ̯}}
+        :{{Hörbeispiele}} {{Audio|De-Professor.ogg}}
+        :{{Reime}} {{Reim|ɛsoːɐ̯|Deutsch}}
+
+        {{Synonyme}}
+        :[1] [[Hochschullehrer]]
+
+        {{Gegenwörter}}
+        :[1] [[Privatdozent]]
+    </text>
+</page>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--^
+  ===========================================================================
+  Odin
+  ===========================================================================
+  Copyright (C) 2017 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<page>
+    <text>
+        == Quiz ({{Sprache|Deutsch}}) ==
+        === {{Wortart|Substantiv|Deutsch}}, {{n}} ===
+
+        {{Deutsch Substantiv Übersicht
+        |Genus=n
+        |Nominativ Singular=Quiz
+        |Nominativ Plural 1=Quiz
+        |Nominativ Plural 2=Quizze
+        |Genitiv Singular= Quiz
+        |Genitiv Plural 1=Quiz
+        |Genitiv Plural 2=Quizze
+        |Dativ Singular=Quiz
+        |Dativ Plural 1=Quiz
+        |Dativ Plural 2=Quizzen
+        |Akkusativ Singular=Quiz
+        |Akkusativ Plural 1=Quiz
+        |Akkusativ Plural 2=Quizze
+        }}
+
+        {{Worttrennung}}
+        :Quiz, {{Pl.1}} Quiz, {{Pl.2}} Quiz·ze
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|kvɪs}}
+        :{{Hörbeispiele}} {{Audio|De-Quiz.ogg}}
+        :{{Reime}} {{Reim|ɪs|Deutsch}}
+
+        {{Gegenwörter}}
+        :[1] [[Brettspiel]], [[Kartenspiel]]
+
+        {{Oberbegriffe}}
+        :[1] [[Spiel]]
+    </text>
+</page>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--^
+  ===========================================================================
+  Odin
+  ===========================================================================
+  Copyright (C) 2017 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<page>
+    <text>
+        == Bank ({{Sprache|Deutsch}}) ==
+        === {{Wortart|Substantiv|Deutsch}}, {{f}}, ''Bänke'' ===
+
+        {{Deutsch Substantiv Übersicht
+        |Genus=f
+        |Nominativ Singular=Bank
+        |Nominativ Plural=Bänke
+        |Genitiv Singular=Bank
+        |Genitiv Plural=Bänke
+        |Dativ Singular=Bank
+        |Dativ Plural=Bänken
+        |Akkusativ Singular=Bank
+        |Akkusativ Plural=Bänke
+        |Bild=Sphinx bench by Cleopatra's Needle London.jpg|mini|1|eine ''Bank'' in London
+        }}
+
+        {{Worttrennung}}
+        :Bank, {{Pl.}} Bän·ke
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|baŋk}}
+        :{{Hörbeispiele}} {{Audio|De-Bank.ogg}}
+        :{{Reime}} {{Reim|aŋk|Deutsch}}
+
+        {{Synonyme}}
+        :[2] [[Lage]]
+        :[5] [[Theke]], [[Tresen]]
+        :[6] [[Auswechselbank]], [[Ersatzbank]]
+
+        {{Oberbegriffe}}
+        :[1] [[Sitzgelegenheit]], [[Stadtmöbel]]
+
+
+        === {{Wortart|Substantiv|Deutsch}}, {{f}}, ''Banken'' ===
+
+        {{Deutsch Substantiv Übersicht
+        |Genus=f
+        |Nominativ Singular=Bank
+        |Nominativ Plural=Banken
+        |Genitiv Singular=Bank
+        |Genitiv Plural=Banken
+        |Dativ Singular=Bank
+        |Dativ Plural=Banken
+        |Akkusativ Singular=Bank
+        |Akkusativ Plural=Banken
+        }}
+
+        {{Worttrennung}}
+        :Bank, {{Pl.}} Ban·ken
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|baŋk}}
+        :{{Hörbeispiele}} {{Audio|De-Bank.ogg|Bank}}
+        :{{Reime}} {{Reim|aŋk|Deutsch}}
+
+        {{Synonyme}}
+        :[1] [[Geldhaus]], [[Geldinstitut]], [[Finanzinstitut]], [[Finanzunternehmen]], [[Kreditinstitut]], [[Bankhaus]]
+        :[2] [[Kasino]], [[Spielbank]]
+
+        {{Oberbegriffe}}
+        :[1] [[Gebäude]], [[Unternehmen]]
+    </text>
+</page>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--^
+  ===========================================================================
+  Odin
+  ===========================================================================
+  Copyright (C) 2017 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<page>
+    <text>
+        == einige ({{Sprache|Deutsch}}) ==
+        === {{Wortart|Indefinitpronomen|Deutsch}}, {{Wortart|Numerale|Deutsch}} ===
+
+        {{Pronomina-Tabelle
+        |Nominativ Singular m=einiger
+        |Nominativ Singular f=einige
+        |Nominativ Singular n=einiges
+        |Nominativ Plural=einige
+        |Genitiv Singular m=einiges
+        |Genitiv Singular f=einiger
+        |Genitiv Singular n=einiges
+        |Genitiv Plural=einiger
+        |Dativ Singular m=einigem
+        |Dativ Singular f=einiger
+        |Dativ Singular n=einigem
+        |Dativ Plural=einigen
+        |Akkusativ Singular m=einigen
+        |Akkusativ Singular f=einige
+        |Akkusativ Singular n=einiges
+        |Akkusativ Plural=einige
+        }}
+
+        {{Worttrennung}}
+        :ei·ni·ge
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ˈaɪ̯nɪɡə}}
+        :{{Hörbeispiele}} {{Audio|}}
+        :{{Reime}} {{Reim|aɪ̯nɪɡə|Deutsch}}
+
+        {{Gegenwörter}}
+        :[1] [[alle]], [[keine]]
+        :[2] [[nichts]]
+
+
+        === {{Wortart|Konjugierte Form|Deutsch}} ===
+
+        {{Worttrennung}}
+        :ei·ni·ge
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ˈaɪ̯nɪɡə}}
+        :{{Hörbeispiele}} {{Audio|}}
+        :{{Reime}} {{Reim|aɪ̯nɪɡə|Deutsch}}
+
+
+        === {{Wortart|Deklinierte Form|Deutsch}} ===
+
+        {{Worttrennung}}
+        :ei·ni·ge
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ˈaɪ̯nɪɡə}}
+        :{{Hörbeispiele}} {{Audio|}}
+        :{{Reime}} {{Reim|aɪ̯nɪɡə|Deutsch}}
+
+        {{Ähnlichkeiten 1|[[deinige]], [[einig]], [[einigen]], [[Einigung]], [[einzige]], [[meinige]], [[reinige]],
+        [[seinige]]}}
+    </text>
+</page>

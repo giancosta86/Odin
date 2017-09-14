@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--^
+  ===========================================================================
+  Odin
+  ===========================================================================
+  Copyright (C) 2017 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<page>
+    <text>
+        == nie ({{Sprache|Französisch}}) ==
+        === {{Wortart|Konjugierte Form|Französisch}} ===
+
+        {{Worttrennung}}
+        :nie
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ni}}
+        :{{Hörbeispiele}} {{Audio|}}
+
+
+        == nie ({{Sprache|Polnisch}}) ==
+        === {{Wortart|Partikel|Polnisch}} ===
+
+        {{Worttrennung}}
+        :nie
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ɲɛ}}
+        :{{Hörbeispiele}} {{Audio|Pl-nie.ogg}}
+
+        {{Synonyme}}
+        :[8] [[prawda]]
+
+        {{Gegenwörter}}
+        :[13, 14, 17] [[tak]]
+
+
+        === {{Wortart|Konjunktion|Polnisch}} ===
+
+        {{Worttrennung}}
+        :nie
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ɲɛ}}
+        :{{Hörbeispiele}} {{Audio|Pl-nie.ogg}}
+
+        {{Gegenwörter}}
+        :[2] [[i]]
+
+        === {{Wortart|Deklinierte Form|Polnisch}} ===
+
+        {{Worttrennung}}
+        :nie
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ɲɛ}}
+        :{{Hörbeispiele}} {{Audio|}}
+
+
+        == nie ({{Sprache|Deutsch}}) ==
+        === {{Wortart|Adverb|Deutsch}} ===
+
+        {{Worttrennung}}
+        :nie
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|niː}}
+        :{{Hörbeispiele}} {{Audio|De-nie.ogg}}
+        :{{Reime}} {{Reim|iː|Deutsch}}
+
+        {{Synonyme}}
+        :[1] [[niemals]], [[nimmer]], [[nie und nimmer]]
+
+        {{Gegenwörter}}
+        :[1] [[immer]]
+    </text>
+</page>

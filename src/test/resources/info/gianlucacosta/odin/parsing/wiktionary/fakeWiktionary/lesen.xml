@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--^
+  ===========================================================================
+  Odin
+  ===========================================================================
+  Copyright (C) 2017 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<page>
+    <text>
+        == lesen ({{Sprache|Deutsch}}) ==
+        === {{Wortart|Verb|Deutsch}}, ''unregelmäßig'' ===
+
+        {{Deutsch Verb Übersicht
+        |Präsens_ich=lese
+        |Präsens_du=liest
+        |Präsens_er, sie, es=liest
+        |Präteritum_ich=las
+        |Partizip II=gelesen
+        |Konjunktiv II_ich=läse
+        |Imperativ Singular=lies
+        |Imperativ Plural=lest
+        |Hilfsverb=haben
+        |Bild 1=Franz Eybl, Lesendes Mädchen.jpg|Bildbreite 1=250px|Bildbezug 1=1|Bildbeschreibung 1=ein [[Mädchen]]
+        ''liest''
+        |Bild 2=Bundesarchiv B 145 Bild-F079100-0026, Heidelberg, Hörsaal in der Universität.jpg|Bildbreite
+        2=250px|Bildbezug 2=4|Bildbeschreibung 2=ein [[Mann]] ''liest'' vor [[Student]]en
+        }}
+
+        {{Worttrennung}}
+        :le·sen, {{Prät.}} las, {{Part.}} ge·le·sen
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ˈleːzn̩}}
+        :{{Hörbeispiele}} {{Audio|De-lesen.ogg}}, {{Audio|De-lesen2.ogg}}, {{Audio|De-at-lesen.ogg|spr=at}}
+        :{{Reime}} {{Reim|eːzn̩|Deutsch}}
+
+        {{Gegenwörter}}
+        :[1] ''Texte erzeugen'': [[drucken]], [[schreiben]]
+
+        {{Oberbegriffe}}
+        :[1] [[kommunizieren]], [[verstehen]], [[aufnehmen]]
+        :[2] [[ernten]]
+        :[3] [[ordnen]]
+        :[4] [[bilden]], [[lehren]], [[vermitteln]]
+    </text>
+</page>

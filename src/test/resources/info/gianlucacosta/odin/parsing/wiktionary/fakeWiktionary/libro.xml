@@ -1,0 +1,73 @@
+<!--^
+  ===========================================================================
+  Odin
+  ===========================================================================
+  Copyright (C) 2017 Gianluca Costa
+  ===========================================================================
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  ===========================================================================
+-->
+
+<page>
+    <text>
+        == libro ({{Sprache|Esperanto}}) ==
+        === {{Wortart|Substantiv|Esperanto}} ===
+
+        {{Esperanto Substantiv Übersicht}}
+
+        {{Worttrennung}}
+        :li·bro, {{Pl.}} li·broj
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|}}
+        :{{Hörbeispiele}} {{Audio|Eo-libro.ogg}}
+
+
+        == libro ({{Sprache|Italienisch}}) ==
+        === {{Wortart|Substantiv|Italienisch}}, {{m}} ===
+
+        {{Italienisch Substantiv Übersicht
+        |Genus=m
+        |Singular=libro
+        |Plural=libri
+        |Bild 1=Latin dictionary.jpg|Bildbezug 1=1|Bildbeschreibung 1=libri
+        }}
+
+        {{Worttrennung}}
+        :li·bro, {{Pl.}} li·bri
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ˈliːbro}}, {{Pl.}} {{Lautschrift|ˈliːbri}}
+        :{{Hörbeispiele}} {{Audio|It-libro.ogg}} {{Audio|It-un libro.ogg}}, {{Pl.}} {{Audio|}}
+
+        {{Oberbegriffe}}
+        :[1] [[letteratura]]
+
+
+        == libro ({{Sprache|Spanisch}}) ==
+        === {{Wortart|Substantiv|Spanisch}}, {{m}} ===
+
+        {{Spanisch Substantiv Übersicht
+        |Genus=m
+        |Plural=libros
+        |Bild 1=Latin dictionary.jpg|Bildbezug 1=1|Bildbeschreibung 1=''libros''
+        }}
+
+        {{Worttrennung}}
+        :li·bro
+
+        {{Aussprache}}
+        :{{IPA}} {{Lautschrift|ˈliβɾo}}
+        :{{Hörbeispiele}} {{Audio|}}
+    </text>
+</page>
